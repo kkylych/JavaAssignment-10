@@ -1,4 +1,5 @@
 StringProcessor Class
+
 The StringProcessor class provides various string processing methods for common tasks. This README provides an overview of the class and details the testing process.
 
 Methods
